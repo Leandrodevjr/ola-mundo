@@ -1,2 +1,5 @@
-# ola mundo
- primeiro repositorio do curso de git e githun
+# olá, mundo
+
+primeiro repositória do curso em video
+
+repositorio criado durante uma aula ao vivo
